@@ -1,0 +1,11 @@
+{
+  "name": "OrbitHAR - Space Experiment Human Activity Recognition",
+  "description": "Autonomous edge-AI human activity recognition assistant for scientific experiments in microgravity environments with exact live 33-keypoint BlazePose tracking, real-time hand gesture recognition, orientation-agnostic 3D tracking, step suggestion, autonomous voice alerts, and telemetry logging.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
